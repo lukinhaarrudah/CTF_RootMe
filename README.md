@@ -60,7 +60,7 @@ O objetivo nesta etapa foi obter a execução remota de código (RCE) através d
 
 
 
-3. **Técnica de Bypass:** Alteri a extensão da reverse shell para `.php5`, o que permitiu contornar o filtro e realizar o upload.
+3. **Técnica de Bypass:** Alterei a extensão da reverse shell para `.PHp5`, o que permitiu contornar o filtro e realizar o upload.
 
    ![Shell Enviada](img/shell_enviada.png)
 
