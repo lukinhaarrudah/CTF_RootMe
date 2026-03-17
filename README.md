@@ -110,4 +110,4 @@ Com o acesso inicial, busquei elevar meus privilégios para o usuário root.
 
 📝 **Documentação criada por Lucas Arruda Leme**
 
-esta assim
+
